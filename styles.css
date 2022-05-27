@@ -1,0 +1,36 @@
+a {
+  color: #66bfbf;
+}
+
+a:link {
+
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+body {
+  background-color: white;
+}
+
+h1 {
+  color: #66bfbf;
+}
+h3 {
+  color: #66bfbf;
+}
+
+hr {
+  border-style: dashed;
+height: 0.1px;
+width: 70%;
+}
